@@ -27,3 +27,8 @@ Now, there are 5 missionaries and 3 cannibals on the left side and 2 missionarie
 
 # Approach
 A simple brute-force DFS approach.
+
+# Output
+<img width="875" height="554" alt="image" src="https://github.com/user-attachments/assets/e3af0b64-be61-4239-8ebc-21d5409faa09" />
+<img width="531" height="623" alt="image" src="https://github.com/user-attachments/assets/9eceb289-06c3-4b27-879d-6bf1b6a38262" />
+
